@@ -21,3 +21,4 @@ This list is built by the community. Have you built or are you using an Operator
 | operatorkit          | [giantswarm/operatorkit](https://github.com/giantswarm/operatorkit)                             | An opinionated Go framework for developing Kubernetes operators                  |
 | operator-framework   | [ctron/operator-framework](https://github.com/ctron/operator-framework)                         | Tools and helper for creating Kubernetes operators in Rust                       |
 | Roperator            | [psFried/roperator](https://github.com/psFried/roperator)                                       | Experimental Kubernetes Operator kit written in Rust                             |
+|controller-runtime    | [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)     | Native kubernetes library to build operators and controllers from scratch|
