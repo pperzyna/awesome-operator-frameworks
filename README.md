@@ -1,5 +1,7 @@
 # Awesome Operator Frameworks
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks?ref=badge_shield)
+
 Operator Frameworks enabled developers to build Operators based on their expertise without requiring knowledge of Kubernetes API complexities.
 
 This list is built by the community. Have you built or are you using an Operator Framework that is not listed? Please send a pull request and we will add that Operator Framework to the list.
@@ -23,3 +25,7 @@ This list is built by the community. Have you built or are you using an Operator
 | operator-framework   | [ctron/operator-framework](https://github.com/ctron/operator-framework)                         | Tools and helper for creating Kubernetes operators in Rust                       |
 | Roperator            | [psFried/roperator](https://github.com/psFried/roperator)                                       | Experimental Kubernetes Operator kit written in Rust                             |
 | controller-runtime   | [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)     | Native kubernetes library to build operators and controllers from scratch        |
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks?ref=badge_large)
