@@ -1,6 +1,6 @@
 # Awesome Operator Frameworks
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks?ref=badge_shield)
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks?ref=badge_shield)
 
 Operator Frameworks enabled developers to build Operators based on their expertise without requiring knowledge of Kubernetes API complexities.
 
@@ -17,14 +17,15 @@ This list is built by the community. Have you built or are you using an Operator
 | Kooper               | [spotahome/kooper](https://github.com/spotahome/kooper)                                         | Kooper is a simple Go library to create Kubernetes operators and controllers     |
 | Kopf                 | [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf)                             | About A Python framework to write Kubernetes operators in just few lines of code |
 | Kubebuilder          | [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)                   | The SDK for building Kubernetes APIs using CRDs                                  |
+| .NET Operator SDK    | [buehler/dotnet-operator-sdk](https://github.com/buehler/dotnet-operator-sdk)                   | The kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.         |
 | KUDO                 | [kudobuilder/kudo](https://github.com/kudobuilder/kudo)                                         | Kubernetes Universal Declarative Operator                                        |
 | Metacontroller       | [GoogleCloudPlatform/metacontroller](https://github.com/GoogleCloudPlatform/metacontroller)     | Lightweight Kubernetes controllers as a service                                  |
 | Operator SDK         | [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)           | Advanced Go SDK for building Kubernetes Operators                                |
 | operatorkit          | [giantswarm/operatorkit](https://github.com/giantswarm/operatorkit)                             | An opinionated Go framework for developing Kubernetes operators                  |
 | operator-framework   | [ctron/operator-framework](https://github.com/ctron/operator-framework)                         | Tools and helper for creating Kubernetes operators in Rust                       |
 | Roperator            | [psFried/roperator](https://github.com/psFried/roperator)                                       | Experimental Kubernetes Operator kit written in Rust                             |
-|controller-runtime    | [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)     | Native kubernetes library to build operators and controllers from scratch|
-
+| controller-runtime   | [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)     | Native kubernetes library to build operators and controllers from scratch        |
 
 ## License
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpperzyna%2Fawesome-operator-frameworks?ref=badge_large)
